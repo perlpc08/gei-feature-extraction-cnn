@@ -25,3 +25,4 @@ To evaluate the effectiveness of transfer learning for gait-based biometric reco
 | Model      | Accuracy | Loss     | F1-score | F1-score |
 |------------|----------|----------|
 | ResNet50   | 97.98%   | XX       |
+<img width="887" height="462" alt="image" src="https://github.com/user-attachments/assets/f706fdca-560b-4e1d-bde3-f0ce0e23cde3" />
